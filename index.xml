@@ -8,12 +8,12 @@
         <language>zh-cn</language>
         <copyright>Dust_Li</copyright>
         <lastBuildDate>Fri, 07 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://DustLi-DC.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>专题三 贪心、二分</title>
+        <title>专题三 贪心、倍增</title>
         <link>https://DustLi-DC.github.io/p/topic-three/</link>
         <pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate>
         
         <guid>https://DustLi-DC.github.io/p/topic-three/</guid>
-        <description>&lt;h1 id=&#34;专题三-贪心二分&#34;&gt;专题三 贪心、二分
+        <description>&lt;h1 id=&#34;专题三-贪心倍增&#34;&gt;专题三 贪心、倍增
 &lt;/h1&gt;&lt;p&gt;102400226 石华波&lt;/p&gt;
 &lt;p&gt;Vjudge账号:DustLi&lt;/p&gt;
 &lt;h2 id=&#34;问题一priority-queue&#34;&gt;问题一	Priority Queue
